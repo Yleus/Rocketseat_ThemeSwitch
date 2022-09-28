@@ -1,4 +1,4 @@
-## Theme Switch
+## Theme Switcher
 
 ![Image](/assets/projectimage.png)
 
