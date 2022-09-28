@@ -2,7 +2,7 @@
 
 ![Image](/assets/projectimage.png)
 
-*[Description](#project-description)
+[Description](#project-description)
 
-A button with switch mode of light screen to dark screen.
+A button with switcher mode of light screen to dark screen.
 
